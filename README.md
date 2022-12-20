@@ -1,3 +1,4 @@
+# Naive Bayesian Recursive Classifier 
 There are 3 parts that comprise the Naive Recursive Bayesian Classifier: 
 	1. Train Data Cleaning: PDF Data cleaning was the reason that I struggled the most with this 
 	homework assignment. Figuring out how to put convert the PDF into an efficacious training set 
